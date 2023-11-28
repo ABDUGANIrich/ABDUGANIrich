@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ABDUGANIrich
 - 👀 I’m interested in web programming.
-- 🌱 I’m currently learning raect
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : via telegram
 
